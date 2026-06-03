@@ -9,4 +9,4 @@ Run the script using Python:
 python sum.py
 ```
 
-You can modify the values of `x` and `y` in the script to calculate the sum of different numbers.
+You can modify the values of `a` and `b` in the script to calculate the sum of different numbers.
