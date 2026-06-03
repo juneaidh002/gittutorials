@@ -1,0 +1,12 @@
+# Sum Script
+
+This is a minimal Python script that demonstrates a function to calculate the sum of two numbers.
+
+## Usage
+Run the script using Python:
+
+```
+python sum.py
+```
+
+You can modify the values of `x` and `y` in the script to calculate the sum of different numbers.
